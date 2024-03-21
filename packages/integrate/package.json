@@ -1,0 +1,21 @@
+{
+  "name": "@swc-node/integrate",
+  "version": "0.1.0",
+  "description": "Integrate testing",
+  "keywords": ["ava", "swc", "ts-node"],
+  "author": "LongYinan <lynweklm@gmail.com>",
+  "homepage": "https://github.com/Brooooooklyn/swc-node",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brooooooklyn/swc-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brooooooklyn/swc-node/issues"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3"
+  }
+}
